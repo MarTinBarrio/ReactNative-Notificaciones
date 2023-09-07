@@ -16,10 +16,12 @@
       "supportsTablet": true
     },
     "android": {
+      "versionCode": "1",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.tinchito.Notificaciones"
     },
     "web": {
       "favicon": "./assets/favicon.png"
